@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cupid's court of equity. The scornful lady quickly took, while she her love disdain'd: she was prick'd down in Cupid's book, his vassal she remain'd. Tune of, When first I bid my love good-morrow.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680-1685?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02542</idno>
+            <idno type="STC">Wing C7599</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[57]</idno>
+            <idno type="EEBO-CITATION">99887631</idno>
+            <idno type="PROQUEST">ocm99887631</idno>
+            <idno type="VID">183255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183255)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cupid's court of equity. The scornful lady quickly took, while she her love disdain'd: she was prick'd down in Cupid's book, his vassal she remain'd. Tune of, When first I bid my love good-morrow.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball, near the Hospital-gate, in West-Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1680-1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "When first I bid my love good morrow ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Cupid (Roman deity) --  Early works to 1800.</term>
+               <term>Love poetry, English --  England --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="57" facs="tcp:183255:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>CUPIDS COURT of EQUITY.</head>
+            <argument>
+               <lg>
+                  <l>The ſcornful Lady quickly took,</l>
+                  <l>While ſhe her love Diſdain'd:</l>
+                  <l>She was prick'd down in <hi>Cupids</hi> Book,</l>
+                  <l>His Vaſſal ſhe remain'd.</l>
+               </lg>
+            </argument>
+            <opener>Tune of, <hi>When firſt I bid my Love Good-Morrow.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen firſt I bid my Love good morrow,</l>
+               <l>with tear in Eye, and hand on breaſt;</l>
+               <l>My heart was even drown'd in ſorrow,</l>
+               <l>and I poor ſoul was much oppreſt.</l>
+            </lg>
+            <lg>
+               <l>The glances from her Eye ſo darted,</l>
+               <l>I her captive ſoon was made;</l>
+               <l>The Priſoner took was broken-hearted,</l>
+               <l>this I find is <hi>Cupids</hi> Trade.</l>
+            </lg>
+            <lg>
+               <l>All my reaſon then was baniſh'd.</l>
+               <l>and I left in Captivity:</l>
+               <l>My hop'd for joys were quickly vaniſh'd,</l>
+               <l>by the Lightning of her Eye.</l>
+            </lg>
+            <lg>
+               <l>All my hopes at once were blaſted,</l>
+               <l>by one ſeeming ſcornful look:</l>
+               <l>The joys I hop'd for to have taſted,</l>
+               <l>had no Record in <hi>Cupids</hi> Book.</l>
+            </lg>
+            <lg>
+               <l>I ſigh'd, I groun'd juſt like a Lover,</l>
+               <l>ready juſt for to depart;</l>
+               <l>And had no hopes for to recover.</l>
+               <l>for ſhe, Oh ſhe had broke my heart.</l>
+            </lg>
+            <lg>
+               <l>Away I went without her ſmiling,</l>
+               <l>which was worſe then death to me:</l>
+               <l>And <hi>Cupid</hi> was me then beguiling</l>
+               <l>of my Life and Liberty.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>BUt when ſhe ſee that I abſented,</l>
+               <l>almoſt melted into Tears,</l>
+               <l>By Love ſick caſe ſhe then lamented,</l>
+               <l>and like my ſelf was fill'd with fears.</l>
+            </lg>
+            <lg>
+               <l>Alas, quoth ſhe, am I ſo cruel,</l>
+               <l>as to let this Lover dye?</l>
+               <l>Or to his flames to add ſuch fuel,</l>
+               <l>as makes his heart to ſcorch and fry,</l>
+            </lg>
+            <lg>
+               <l>A Balſome then I will provide him,</l>
+               <l>ſhall effect a perfect cure;</l>
+               <l>And in my boſome I will hide him,</l>
+               <l>he ſhall not theſe pains indure.</l>
+            </lg>
+            <lg>
+               <l>My thinks I feel my ſelf relenting,</l>
+               <l>and in tears I almoſt melt:</l>
+               <l>Now do I grieve at his tormenting,</l>
+               <l>I now feel the pains he felt.</l>
+            </lg>
+            <lg>
+               <l>None can indure this bitter anguiſh,</l>
+               <l>which at this time I do feel:</l>
+               <l>For want of him I grieve, I languiſh,</l>
+               <l>none but he my wounds can heal.</l>
+            </lg>
+            <lg>
+               <l>Let not your beauty make you peeviſh,</l>
+               <l>you that nature made ſo fair:</l>
+               <l>For mens as womens eyes are thieviſh,</l>
+               <l>love commands or breeds diſpair.</l>
+            </lg>
+            <lg>
+               <l>At firſt too ſtrangely I did ſlight him,</l>
+               <l>whom I now ſo much adore:</l>
+               <l>He is the Man I do delight in,</l>
+               <l>and now will do for evermore.</l>
+            </lg>
+            <lg>
+               <l>His ſighs and groans ſhall be requited,</l>
+               <l>with a ſhoure of brackiſh tears:</l>
+               <l>And my ſenſes are benighted,</l>
+               <l>fill'd with ſtorms of dreads and fears.</l>
+            </lg>
+            <lg>
+               <l>Oh come again before my ſoreow</l>
+               <l>brings me to the brink of Death,</l>
+               <l>I cannot hope to ſee to morrow,</l>
+               <l>except you come to ſave my breath.</l>
+            </lg>
+            <lg>
+               <l>Then come &amp; take thy conqueſt quickly</l>
+               <l>I am ready to depart:</l>
+               <l>Juſt at this moment I am ſickly,</l>
+               <l>thou haſt won my tender heart.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-ball, near the <hi>Hospital-Gate,</hi> in <hi>Weſt-ſmith-field.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
